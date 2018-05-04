@@ -1,13 +1,14 @@
 ## code your solution here. 
 
 class Cat 
-  attr_accessor :name, :meow 
+  attr_accessor :name 
   
-  def 
+  def meow
+    puts "meow!"
+  end
+end
   
   
-  
-  end 
 
 new_cat = Cat.new 
 new.cat = Cat.new 
