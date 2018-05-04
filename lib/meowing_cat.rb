@@ -6,4 +6,4 @@ class Cat
 
 new_cat = Cat.new 
 new_cat.meow 
-puts 
+puts "meow!" 
