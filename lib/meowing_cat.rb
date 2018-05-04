@@ -2,9 +2,9 @@
 
 class Cat 
   attr_accessor 
-  maru.name = "Maru"
+  def maru.name = "Maru"
   
   
-  
+end   
 end 
 
