@@ -5,5 +5,4 @@ class Cat
   end 
 
 new_cat = Cat.new 
-new_cat.meow =
-puts "meow!" 
+new_cat.meow = ""
