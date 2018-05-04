@@ -7,4 +7,4 @@ class Cat
 new_cat = Cat.new 
 new_cat.meow = ""meow!" 
 
-
+puts new_cat.meow 
